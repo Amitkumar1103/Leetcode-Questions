@@ -27,4 +27,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
