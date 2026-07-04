@@ -1,12 +1,32 @@
 class Solution {
+    // public int buyChoco(int[] prices, int money) {
+    //     Arrays.sort(prices);
+
+    //     int cost = prices[0] + prices[1];
+
+    //     if(cost<=money){
+    //         return money-cost;
+    //     }
+    //     return money;
+    // }
+    //optimal code
     public int buyChoco(int[] prices, int money) {
-        Arrays.sort(prices);
+        int first = Integer.MAX_VALUE;
+        int sec = Integer.MAX_VALUE;
 
-        int cost = prices[0] + prices[1];
-
+        for(int price:prices){
+            if(price<first){
+                sec=first;
+                first = price;
+            }else if (price<sec){
+                sec = price;
+            }
+        }
+        int cost = first + sec;
         if(cost<=money){
             return money-cost;
         }
         return money;
+
     }
 }
