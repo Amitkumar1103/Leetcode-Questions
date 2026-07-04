@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [2706-buy-two-chocolates](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2235-add-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
