@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
