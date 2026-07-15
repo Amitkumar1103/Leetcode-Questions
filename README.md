@@ -33,6 +33,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2235-add-two-integers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
