@@ -46,4 +46,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
