@@ -15,12 +15,14 @@
 | [0001-two-sum](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
