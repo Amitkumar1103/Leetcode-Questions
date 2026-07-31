@@ -80,4 +80,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
