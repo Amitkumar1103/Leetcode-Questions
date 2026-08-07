@@ -47,6 +47,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2706-buy-two-chocolates](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
@@ -87,6 +88,7 @@
 | [0020-valid-parentheses](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -103,8 +105,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
