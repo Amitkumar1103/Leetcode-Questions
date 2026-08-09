@@ -111,4 +111,16 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
