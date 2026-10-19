@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [2706-buy-two-chocolates](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -118,6 +120,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amitkumar1103/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
